@@ -1,4 +1,4 @@
-const url = "http://entredwin.herokuapp.com/posdated-ws/api/";
+const url = "https://entredwin.herokuapp.com/posdated-ws/api/";
 //const url = "http://localhost:8080/posdated-ws/api/" ;
 
 const token = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaXNBZG1pbiI6dHJ1ZSwiaWF0IjoxNTgxNzc4MTEyLCJleHAiOjE1ODQzNzAxMTJ9.oXzNg-5yQrOTplTZsArmYrgA5RUDOwL27BJ3JRGXjBU";
